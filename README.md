@@ -1,4 +1,4 @@
-"# RAG-Doc-Assistant-Using-Groq-Interface-Engine" 
+# RAG-Doc-Assistant-Using-Groq-Interface-Engine
 
 A **Retrieval-Augmented Generation (RAG)** based chatbot that allows users to query web-based documents in real-time using **LangChain**, **Groq LLM**, **Ollama embeddings**, and **FAISS vector database**, all wrapped in a **Streamlit UI**.
 
